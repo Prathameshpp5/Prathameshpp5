@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAWAR PRATHAMESH PRAVIN</h1>
-- 🔭 I’m currently working on **Market Entry Analysis For Netflix.**
+
 
 - 📫 How to reach me **me22btech11042@iith.ac.in**
 
