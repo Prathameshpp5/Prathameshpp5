@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PAWAR PRATHAMESH PRAVIN</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh</h1>
 
 
 - 📫 How to reach me **me22btech11042@iith.ac.in**
